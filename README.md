@@ -34,9 +34,6 @@
 &nbsp;
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leofbrgs&show_icons=true&locale=en&layout=compact" alt="leofbrgs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leofbrgs&" alt="leofbrgs" /></p>
 
 
   
